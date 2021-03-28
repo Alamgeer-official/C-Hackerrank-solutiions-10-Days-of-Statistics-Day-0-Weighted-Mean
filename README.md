@@ -1,0 +1,1 @@
+# C-Hackerrank-solutiions-10-Days-of-Statistics-Day-0-Weighted-Mean
